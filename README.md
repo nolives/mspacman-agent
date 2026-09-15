@@ -19,7 +19,7 @@ A Deep Q-Network (DQN) trained for 1,000 games of Atari Ms. Pac-Man on an Apple 
 
 ## How to run it
 
-The executed notebook is [`pacman_dqn.ipynb`](pacman_dqn.ipynb). All cell outputs from the final run are saved in it, so you can read the results without rerunning anything.
+The executed notebook is [`pacman_dqn.ipynb`](pacman_dqn.ipynb). All cell outputs from the final run are saved in it, so you can read the results without rerunning anything. GitHub's notebook viewer can't display the notebook's inline gameplay GIFs; they appear as `<IPython.core.display.Image object>`. All of them are embedded in the [Gameplay](#gameplay) section below and saved in [`results/demos/`](results/demos).
 
 **Locally (how this run was done).** The notebook needs Python 3.11–3.13; `ale-py` 0.11.2 has no Python 3.14 build.
 
